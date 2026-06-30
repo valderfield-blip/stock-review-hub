@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stock Review Hub"
+  short_description: "Daily U.S. market review workflow"
+  default_prompt: "Use $stock-review-hub to generate a Stock Review Hub daily market review."

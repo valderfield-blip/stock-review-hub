@@ -1,4 +1,4 @@
 interface:
   display_name: "Stock Review Hub"
-  short_description: "Daily U.S. market review workflow"
-  default_prompt: "Use $stock-review-hub to generate a Stock Review Hub daily market review."
+  short_description: "U.S. market reviews and podcast scripts"
+  default_prompt: "Use $stock-review-hub to generate a verified daily U.S. market review or a podcast transcript based on the latest review."

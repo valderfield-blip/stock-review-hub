@@ -13,6 +13,7 @@ Stock Review Hub (`美股复盘局`) is a Codex skill for producing professional
 - A bilingual Chinese/English report structure designed for deployment as static HTML on Vercel.
 - A 10-stock tracking framework with Bull Case, Bear Case, Confidence Score, and monitoring notes.
 - Date search and 30-, 90-, and 180-day archive views for continuous market-review records.
+- Spoken-word finance podcast transcripts derived from the latest verified review, with bull/bear debate and next-session watch items.
 - Evidence-first rules that prohibit invented prices, percentages, financial figures, or platform sentiment scores.
 
 ## Install

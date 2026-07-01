@@ -1,3 +1,8 @@
+<div align="right">
+  <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/Language-English-0969DA"></a>
+  <a href="./README.zh-CN.md"><img alt="简体中文" src="https://img.shields.io/badge/语言-简体中文-CB2431"></a>
+</div>
+
 # Stock Review Hub
 
 Stock Review Hub (`美股复盘局`) is a Codex skill for producing professional, bilingual daily U.S. stock-market reviews. It turns verified market, macroeconomic, earnings, news, valuation, sentiment, and quantitative data into an investor-facing HTML report while keeping internal research notes out of the published page. The workflow combines a market-data layer, seven specialized research agents, an investment-committee summary, and a content studio that maintains a searchable daily archive, a 10-stock tracking pool, Bull and Bear cases, confidence scores, risk analysis, backtesting metrics, and next-session watch items. Missing data is never replaced with fabricated values: unavailable inputs are marked `DATA UNAVAILABLE` during research and hidden from reader-facing components when they add no value.

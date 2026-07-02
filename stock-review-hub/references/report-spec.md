@@ -72,6 +72,7 @@ Each future trading day should add one card to `#reviewTimeline` and one full da
   - Bear Case
   - Confidence Score
   - action or watch condition
+- Keep podcast transcripts as standalone files under `podcast/`. Do not show transcript cards, links, or production notes in the HTML unless the user explicitly requests them.
 
 ## Validation checklist
 

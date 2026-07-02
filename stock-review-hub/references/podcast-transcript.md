@@ -36,6 +36,8 @@ Write the transcript in this order:
 - Produce a true word-for-word script, not an outline.
 - Use short paragraphs, spoken transitions, and optional cues such as `[停顿]` sparingly.
 - Give the episode a concise title and include the source review date.
+- Save the default Mandarin transcript as `podcast/YYYY-MM-DD-zh.md`.
+- Keep the transcript independent from the reader-facing report. Do not add a transcript card or link to `index.html` or `index-en.html` unless the user explicitly requests it.
 - Do not expose internal Stage labels, chain-of-thought, or production notes.
 
 ## Final quality check

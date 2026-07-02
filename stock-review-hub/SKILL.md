@@ -24,7 +24,7 @@ Create a professional daily U.S. market review page branded as **美股复盘局
 6. Maintain a 10-stock tracking pool. Each stock must include Bull Case, Bear Case, Confidence Score, and action/monitoring note.
 7. Add the newest trading day above older entries. Keep older entries as clean archive records, not long “how this was produced” explanations.
 8. Build bilingual HTML when requested: `index.html` in Chinese and `index-en.html` in English, with visible language-switch buttons.
-9. When a podcast transcript is requested, derive it from the latest completed review and follow `references/podcast-transcript.md`. Do not introduce unsupported figures or turn tracking ideas into personalized recommendations.
+9. When a podcast transcript is requested, derive it from the latest completed review and follow `references/podcast-transcript.md`. Save it as a standalone file under `podcast/`; do not embed or link it in the HTML unless the user explicitly requests that. Do not introduce unsupported figures or turn tracking ideas into personalized recommendations.
 10. If deploying, use the `vercel-deploy` skill and return the final URL. Prefer the clean alias `stock-review-hub.vercel.app` when the user wants the current public page.
 
 ## Output shape
